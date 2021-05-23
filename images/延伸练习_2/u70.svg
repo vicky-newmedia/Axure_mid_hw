@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="306px" height="32px" viewBox="44 164  306 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <image preserveAspectRatio="none" style="overflow:visible" width="306" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATIAAAAgCAYAAACRr/ThAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE4SURBVHhe7d05qgJBFIbR6hYVHLZgYGJu5v4XoJEguAsHHNB6VDXtFl5fOAd+AzH+uG3SCSC6pnzs9/v8eDxS27apaZo6gKHKOdd9v9+02+2atnz5er3S+/1On8/n9wOAIeobVXpVulXU0+twOORStul0miaTye8yAxia/hIrB9jz+Uzb7bar1fF4zKPRKM1ms7oSsjKAoSkRK7vf73WbzaYL2el0yuPxOM3n8zohA4aqD9ntdqtbr9ddyM7ncy6PlMvlMi0WCyEDBqsP2fV6TZfLJa1Wq+7PfoDIhAwIT8iA8IQMCE/IgPCEDAhPyIDwhAwIT8iA8IQMCE/IgPCEDAhPyIDwhAwIT8iA8IQMCE/IgPCEDAhPyIDwhAwIT8iA8IQMCK+GrLxV3JvFgWj6brnIAAD+V0p/DJht828IdZEAAAAASUVORK5CYII=" id="widget7" />
+  </defs>
+  <use xlink:href="#widget7" x="44px" y="164px" />
+  <path d="M 44.5 164.5  L 349.5 164.5  L 349.5 195.5  L 44.5 195.5  L 44.5 164.5  Z " stroke-width="1" stroke="#797979" fill="none" stroke-opacity="0.529411764705882" />
+</svg>
